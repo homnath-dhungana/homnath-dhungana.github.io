@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a PhD student at <a href = "https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences">school of Mathematics</a>  at <a href = "https://www.uts.edu.au/" target="_blank">UTS, Sydney</a>. My research interests are biostatistics, applied statistics, mathematical modelling of infectious disease, and probability. Additionally, I am teaching/tutoring at UTS for undergraduate and postgraduate subjects. </p>
+<p> I am a statistician with 13 years of academic research and teaching experience. <p>
+
+<p>I completed my PhD at <a href = "https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences">school of Mathematics</a>  at <a href = "https://www.uts.edu.au/" target="_blank">UTS, Sydney</a>. My research interests are biostatistics, applied statistics, mathematical modelling of infectious diseases, and probability. Additionally, I am teaching/tutoring at UTS for undergraduate and postgraduate subjects. </p>
 
 <p> Prior to UTS, I worked at <a href ="https://iul.ac.in/" target="_blank">Integral University, India</a> as a statistician cum lecturer. </p> 
 

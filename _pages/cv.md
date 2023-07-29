@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Lucknow University, India, 2009
-* M.Sc. CSJM University, India, 2011
-* PhD  The University of Technology Sydney, Australia, 2023 
+* B.Sc., Lucknow University, India, 2009
+* M.Sc., CSJM University, India, 2011
+* PhD, The University of Technology Sydney, Australia, 2023 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post Doc fellow (2021)
+  * Population Council with the collaboration of WHO 
+  * Supervisor: Professor Andrew B Lawson and Dr. Rajib Acharya
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* University Tutor (2017-2021)
+  * The University of Technology Sydney, Australia
+  * Duties included: Taught undergraduate and postgraduate students
+    
+* Statistician cum Lecturer (2013-2017)
+  * Integral University, India
+  * Duties included:
+    * Taught undergraduate and postgraduate students
+    * Consultation of Statistical analysis to help medical faculties and HDR students  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

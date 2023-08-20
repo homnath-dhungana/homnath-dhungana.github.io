@@ -1,11 +1,11 @@
 ---
-title: "Position at Integral University "
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Faculty of Medical Science"
-date: 2014
-location: "Lucknow, India"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

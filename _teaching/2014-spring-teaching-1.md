@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Medical Science"
-date: 2013-2017
+date: 2014
 location: "Lucknow, India"
 ---
 

@@ -1,12 +1,33 @@
 ---
-title: "Subjects taught at Intergral University"
+title: "Subjects taught at UTS"
 collection: teaching
-type: "Lecturing"
-permalink: /teaching/2015-spring-teaching-2
-venue: "Faculty of Medical Science"
-date: 2013-2-13
-location: "Lucknow, India"
+type: "Undergraduate course"
+permalink: /teaching/2017-2020-teaching
+venue: UTS
+date: 2017-1-1
+location: "Sydney, Australia"
 
 ---
-
-I taught Biostatistics, Research Methodology, and Statistical software's at Integral University.
+<h2>Spring 2020</h2>
+<ul>
+  <li> <i>Mathematical Modelling 2</i> (<a href="https://handbook.uts.edu.au/subjects/33230.html">33230</a>) </li>
+</ul>
+<h2>Autumn 2020</h2>
+<ul>
+  <li><i>Statistical Design and Analysis</i> (<a href="https://handbook.uts.edu.au/subjects/33116.html">33116</a>) </li>
+ </ul>
+ <h2>Summer 2019</h2>
+<ul>
+  <li><i>Statistical Design and Analysis </i> (<a href="https://handbook.uts.edu.au/subjects/33116.html">33116</a>) </li>
+ </ul>
+ <h2>Summer 2019</h2>
+<ul>
+   <li><i>Mathematical Modelling 2</i> (<a href="https://handbook.uts.edu.au/subjects/33230.html">33230</a>) </li>
+ </ul>
+  <h2>Spring 2019</h2>
+<ol>
+   <li><i>Mathematical Modelling 2 </i>(<a href="https://handbook.uts.edu.au/subjects/33230.html">33230</a>) </li>
+  <li><i>Forensic Statistics</i> (<a href="https://handbook.uts.edu.au/subjects/35255.html">35255</a>) </li>
+   <li><i>Sample Survey </i>(<a href="https://handbook.uts.edu.au/subjects/37253.html">37253</a>) </li>
+ </ol> 
+  
